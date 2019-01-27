@@ -120,12 +120,13 @@
 	}
 
 	.font-cyan {
-		font-size: 5vw;
 		font-weight: bolder;
 	}
 
-	.skill-title {
-		font-size: 5vw;
+	.skill-title,
+	.subtitle,
+	.font-cyan {
+		font-size: 7vw;
 	}
 	/* ---------------------------------
 	5. PORFOLIO SECTION
